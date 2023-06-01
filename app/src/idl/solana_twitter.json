@@ -1,0 +1,14 @@
+{
+  "version": "0.1.0",
+  "name": "solana_twitter",
+  "instructions": [
+    {
+      "name": "initialize",
+      "accounts": [],
+      "args": []
+    }
+  ],
+  "metadata": {
+    "address": "GUsNRWuXCaf5s24AcisHGtxjgVWAJRuwx9P9YsNK1r84"
+  }
+}
